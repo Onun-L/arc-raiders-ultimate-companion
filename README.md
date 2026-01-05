@@ -23,6 +23,12 @@ For support, feedback or bug reports, please contact:
 
 ---
 
+## Privacy Policy
+This app does not collect, store, or share any personal data.
+No account or login is required.
+
+---
+
 ## Disclaimer
 This is a community-made companion app for ARC Raiders.
 
