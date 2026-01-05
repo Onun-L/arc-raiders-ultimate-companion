@@ -3,7 +3,7 @@ Community-made companion app for ARC Raiders. News, maps, loot locations, live e
 
 ## Support
 For support, feedback or issues, contact:
-arcraiderscompanion@gmail.com  ← (ou o email que preferires)
+onunl.ultimatecompanion@gmail.com
 
 ## Disclaimer
 This app is not affiliated with, endorsed by, or officially connected to Embark Studios.
