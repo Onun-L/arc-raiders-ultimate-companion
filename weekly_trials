@@ -1,0 +1,90 @@
+{
+  "season": "Season 1",
+  "timezone": "UTC",
+  "weeks": [
+    {
+      "id": "week_2026_01_05",
+      "startDate": "2026-01-05",
+      "endDate": "2026-01-11",
+      "trials": [
+        { "id": "damage_snitches", "title": "Damage Snitches", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "throw_snowballs_bastions", "title": "Throw snowballs at Bastions", "objectiveType": "interaction", "starsMax": 3 },
+        { "id": "damage_bastions", "title": "Damage Bastions", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "search_supply_drops", "title": "Search Supply Drops", "objectiveType": "search", "starsMax": 3 },
+        { "id": "harvest_plants", "title": "Harvest plants", "objectiveType": "collect", "starsMax": 3 }
+      ]
+    },
+    {
+      "id": "week_2026_01_12",
+      "startDate": "2026-01-12",
+      "endDate": "2026-01-18",
+      "trials": [
+        { "id": "deliver_carriables", "title": "Deliver carriables", "objectiveType": "delivery", "starsMax": 3 },
+        { "id": "damage_rocketeers", "title": "Damage Rocketeers", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "destroy_pops", "title": "Destroy Pops", "objectiveType": "destroy", "starsMax": 3 },
+        { "id": "hidden_bunker_download", "title": "Download information inside the bunker", "objectiveType": "interaction", "starsMax": 3, "tag": "HIDDEN_BUNKER" },
+        { "id": "damage_hornets", "title": "Damage Hornets", "objectiveType": "damage", "starsMax": 3 }
+      ]
+    },
+    {
+      "id": "week_2026_01_19",
+      "startDate": "2026-01-19",
+      "endDate": "2026-01-25",
+      "trials": [
+        { "id": "damage_queens", "title": "Damage Queens or Matriarchs", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "search_first_wave_husks", "title": "Search First Wave husks", "objectiveType": "search", "starsMax": 3 },
+        { "id": "deliver_thermal_rocks", "title": "Deliver thermal rocks", "objectiveType": "delivery", "starsMax": 3, "tag": "TOXIC_SWAMP" },
+        { "id": "damage_shredders", "title": "Deal damage to Shredders", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "open_arc_probes", "title": "Open ARC Probes", "objectiveType": "interaction", "starsMax": 3 }
+      ]
+    },
+    {
+      "id": "week_2026_01_26",
+      "startDate": "2026-01-26",
+      "endDate": "2026-02-01",
+      "trials": [
+        { "id": "keep_air_purifiers", "title": "Keep Air Purifiers powered on", "objectiveType": "defense", "starsMax": 3, "tag": "TOXIC_SWAMP" },
+        { "id": "destroy_ticks_fireballs_pops", "title": "Destroy Ticks, Fireballs and Pops", "objectiveType": "destroy", "starsMax": 3 },
+        { "id": "damage_wasps", "title": "Damage Wasps", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "harvest_plants_repeat", "title": "Harvest plants", "objectiveType": "collect", "starsMax": 3 },
+        { "id": "damage_rocketeers_leapers_bastions", "title": "Damage Rocketeers, Leapers or Bastions", "objectiveType": "damage", "starsMax": 3 }
+      ]
+    },
+    {
+      "id": "week_2026_02_02",
+      "startDate": "2026-02-02",
+      "endDate": "2026-02-08",
+      "trials": [
+        { "id": "deliver_carriables_repeat", "title": "Deliver carriables", "objectiveType": "delivery", "starsMax": 3 },
+        { "id": "damage_ground_arc", "title": "Damage ground-based ARC enemies", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "open_arc_probes_repeat", "title": "Open ARC Probes", "objectiveType": "interaction", "starsMax": 3 },
+        { "id": "damage_hornets_repeat", "title": "Damage Hornets", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "hidden_bunker_download_repeat", "title": "Download information inside the bunker", "objectiveType": "interaction", "starsMax": 3, "tag": "HIDDEN_BUNKER" }
+      ]
+    },
+    {
+      "id": "week_2026_02_09",
+      "startDate": "2026-02-09",
+      "endDate": "2026-02-15",
+      "trials": [
+        { "id": "damage_shredders_repeat", "title": "Deal damage to Shredders", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "search_first_wave_husks_repeat", "title": "Search First Wave husks", "objectiveType": "search", "starsMax": 3 },
+        { "id": "deliver_thermal_rocks_repeat", "title": "Deliver thermal rocks", "objectiveType": "delivery", "starsMax": 3, "tag": "TOXIC_SWAMP" },
+        { "id": "damage_leapers", "title": "Damage Leapers", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "destroy_fireballs", "title": "Destroy Fireballs", "objectiveType": "destroy", "starsMax": 3 }
+      ]
+    },
+    {
+      "id": "week_2026_02_16",
+      "startDate": "2026-02-16",
+      "endDate": "2026-02-22",
+      "trials": [
+        { "id": "damage_wasps_repeat", "title": "Damage Wasps", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "keep_air_purifiers_repeat", "title": "Keep Air Purifiers powered on", "objectiveType": "defense", "starsMax": 3, "tag": "TOXIC_SWAMP" },
+        { "id": "damage_queens_repeat", "title": "Damage Queens or Matriarchs", "objectiveType": "damage", "starsMax": 3 },
+        { "id": "destroy_ticks", "title": "Destroy Ticks", "objectiveType": "destroy", "starsMax": 3 },
+        { "id": "open_arc_probes_final", "title": "Open ARC Probes", "objectiveType": "interaction", "starsMax": 3 }
+      ]
+    }
+  ]
+}
